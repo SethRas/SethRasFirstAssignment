@@ -10,6 +10,11 @@ Module Hello_World
         Console.WriteLine("Hello_World_This_Is_Seth")
         Console.ReadLine()
         Console.Beep()
+        If
+                Input()
+            Write()
+                #Disable Warning
+
 
     End Sub
 
